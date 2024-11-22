@@ -1,7 +1,7 @@
 {
-    "name": "PRABATHMD (PMD)",
+    "name": "👿☠️_KD_PANTA_00_☠️👿",
     "version": "2.1.4",
-    "description": "PRABATHMD(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
+    "description": "speed bot buy 👿☠️_KD_PANTA_00_☠️👿",
     "main": "start.js",
     "scripts": {
         "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd",
