@@ -48,10 +48,10 @@
 
 ---
 
-## 👑 **`👿☠️_KD_PANTA_00_☠️👿 BOT OWNERS,`** 👑
+##  **`👿☠️_KD_PANTA_00_☠️👿 BOT OWNERS,`** 
 
 
-   <a href="https://raw.githubusercontent.com/Kdpanta2/Manu-MD-X/refs/heads/main/20241122_185935.png"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://raw.githubusercontent.com/Kdpanta2/Manu-MD-X/refs/heads/main/20241122_185935.png"><img src="https://chat.whatsapp.com/D7NcW9TR4Yn5gwHQLLl7MU" width=80 height=80></a>   
 
 ---
 
