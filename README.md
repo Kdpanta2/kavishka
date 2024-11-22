@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## 👿☠️_KD_PANTA_00_☠️👿 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -48,10 +48,10 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`👿☠️_KD_PANTA_00_☠️👿 BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://raw.githubusercontent.com/Kdpanta2/Manu-MD-X/refs/heads/main/20241122_185935.png"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
